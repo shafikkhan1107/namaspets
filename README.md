@@ -1,6 +1,6 @@
 # Namaspets
 
-Namaspets is a PHP-based e-commerce platform designed to help you manage and grow your online pet store. It provides a range of features to streamline your business operations, from product management to customer interactions.
+Namaspets is a PHP-based e-commerce platform designed to help you manage and grow your online store. It provides a range of features to streamline your business operations, from product management to customer interactions.
 
 ## Features
 
